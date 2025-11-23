@@ -1,0 +1,7 @@
+{
+  "name": "Family Network AI",
+  "description": "A real-time voice-to-voice interaction platform with 8 distinct AI personalities using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
